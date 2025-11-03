@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "genero": "Hombre",
+    "url": "https://www.youtube.com"
+  },
+  {
+    "genero": "Mujer",
+    "url": "https://www.google.com"
+  }
+]
