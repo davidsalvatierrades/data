@@ -1,0 +1,34 @@
+[
+  {
+    "imagen": "https://image.prntscr.com/image/i-bZ0OCFQ9yKaIQI8mj83A.jpg",
+    "activo": true,
+    "link_base": "https://www.effectivegatecpm.com/ri0a4z3v?key=43177677856d8f5b217738c6f401cdd7",
+    "orden": 1,
+    "genero": "Mujer",
+    "clicks": 0,
+    "descripcion": "Las tendencias que están marcando el 2025",
+    "titulo": "Apps de moda y estilo",
+    "id": "AdsMujer1"
+  },
+  {
+    "activo": true,
+    "imagen": "https://image.prntscr.com/image/i-bZ0OCFQ9yKaIQI8mj83A.jpg",
+    "link_base": "https://youtube.com",
+    "orden": 1,
+    "genero": "Hombre",
+    "clicks": 1,
+    "descripcion": "Descubre la nueva app exclusiva",
+    "titulo": "Promo especial",
+    "id": "AdsVaron2"
+  },
+  {
+    "descripcion": "ven y descubre de los nuevos videos X",
+    "activo": true,
+    "link_base": "https://www.effectivegatecpm.com",
+    "titulo": "Nuevos videos, que esperas?",
+    "orden": 2,
+    "genero": "Hombre",
+    "clicks": 0,
+    "id": "adsvaron3"
+  }
+]
