@@ -1,4 +1,5 @@
 {
   "app_version": "1.0.0",
-  "maintenance_mode": false
+  "maintenance_mode": true
+
 }
