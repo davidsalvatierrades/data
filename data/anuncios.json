@@ -1,6 +1,6 @@
 [
   {
-    "imagen": "https://image.prntscr.com/image/i-bZ0OCFQ9yKaIQI8mj83A.jpg",
+    "imagen": "https://picsum.photos/400/300",
     "activo": true,
     "link_base": "https://www.effectivegatecpm.com/ri0a4z3v?key=43177677856d8f5b217738c6f401cdd7",
     "orden": 1,
@@ -12,7 +12,7 @@
   },
   {
     "activo": true,
-    "imagen": "https://image.prntscr.com/image/i-bZ0OCFQ9yKaIQI8mj83A.jpg",
+    "imagen": "https://picsum.photos/400/301",
     "link_base": "https://youtube.com",
     "orden": 1,
     "genero": "Hombre",
@@ -29,6 +29,7 @@
     "orden": 2,
     "genero": "Hombre",
     "clicks": 0,
+    "imagen": "https://picsum.photos/400/302",
     "id": "adsvaron3"
   }
 ]
