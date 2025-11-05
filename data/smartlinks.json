@@ -1,10 +1,19 @@
 [
   {
     "genero": "Hombre",
-    "url": "https://www.youtube.com"
+    "url": "https://www.enlacehombre1.com"
   },
   {
     "genero": "Mujer",
-    "url": "https://www.google.com"
+    "url": "https://www.enlacemujer2.com"
+  },
+   {
+    "genero": "Hombre",
+    "url": "https://www.enlacehombre2.com"
+  },
+   {
+    "genero": "Mujer",
+    "url": "https://www.enlacemujer2.com"
   }
+  
 ]
