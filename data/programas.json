@@ -1,18 +1,18 @@
 [
   {
-    "titulo": "como usar photoshop", 
-    "descripsion": "Aprende a tender tu cama de manera profesional sndaskdn snkldklan (quizas aqui sean mas de 300 palabras)", 
+    "titulo": "como usar photoshop",
+    "descripsion": "Aprende a tender tu cama de manera profesional sndaskdn snkldklan (quizas aqui sean mas de 300 palabras)",
     "link_base1": "https://blog de tutorial 1",
-    "link_base2":"https://blog de tutorial 2" 
-    "link_base3":"https://blog de tutorial 3"
+    "link_base2":"https://blog de tutorial 2",
+    "link_base3":"https://blog de tutorial 3",
     "orden": 1,
   },
   {
-   "titulo": "como usar flimora", 
-    "descripsion": "Aprende a tender tu cama de manera profesional sndaskdn snkldklan (quizas aqui sean mas de 300 palabras)", 
+   "titulo": "como usar flimora",
+    "descripsion": "Aprende a tender tu cama de manera profesional sndaskdn snkldklan (quizas aqui sean mas de 300 palabras)",
     "link_base1": "https://blog de tutorial 1",
-    "link_base2":"https://blog de tutorial 2" 
-    "link_base3":"https://blog de tutorial 3" 
+    "link_base2":"https://blog de tutorial 2",
+    "link_base3":"https://blog de tutorial 3",
     "orden": 2,
   }
 ]
